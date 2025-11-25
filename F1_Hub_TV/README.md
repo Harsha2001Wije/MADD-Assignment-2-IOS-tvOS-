@@ -1,4 +1,4 @@
-F1 Race Hub TV – README
+F1 Race Hub TV
 
 F1 Race Hub TV is a modern, big-screen Formula 1 experience designed exclusively for tvOS. It combines a dynamic Race Weekend Dashboard with an immersive F1 Legends Archive, transforming the Apple TV into a motorsport information hub with stunning visuals and intuitive navigation.
 
